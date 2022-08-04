@@ -1,6 +1,6 @@
 <p align="center">...en construcción...</p>
 
-<h1 align="center">Hola 👋, mi nombre es Pedro mancilla</h1>
+<h1 align="center">Hola 👋, mi nombre es Pedro Mancilla</h1>
 <h3 align="center">Un apasionado desarrollador web</h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
